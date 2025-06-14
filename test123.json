@@ -53,8 +53,8 @@
             },
             "matchVideo": {
               "enableNestedUrl": true,
-              "matchNestedUrl": "^.+(m3u8|vip|xigua\\.php).+\\?",
-              "matchVideoUrl": "(^http(s)?:\\/\\/(?!.*http(s)?:\\/\\/).+((\\.mp4)|(\\.mkv)|(\\.m3u8)).*(\\?.+)?)|(akamaized)|(bilivideo.com)|(.+player/\\?url=(?P<v>.+))",
+              "matchNestedUrl": "^https?://jiexi\\.modujx01\\.com/\\?url=(.*)",
+              "matchVideoUrl": "m3u8",
               "cookies": "quality=1080",
               "addHeadersToVideo": {
                 "referer": "",
