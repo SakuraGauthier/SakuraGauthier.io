@@ -1,0 +1,20 @@
+{
+    "exportedMediaSourceDataList": {
+        "mediaSources": [
+            {
+                "factoryId": "rss",
+                "version": 1,
+                "arguments": {
+                    "name": "mikan",
+                    "description": "蜜柑计划",
+                    "iconUrl": "https://mikanani.me/images/mikan-pic.png",
+                    "searchConfig": {
+                        "searchUrl": "https://mikanani.me/Home/Search?searchstr={keyword}",
+                        "filterByEpisodeSort": true,
+                        "filterBySubjectName": true
+                    }
+                }
+            }
+        ]
+    }
+}
