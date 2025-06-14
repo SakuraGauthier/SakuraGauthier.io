@@ -9,7 +9,7 @@
           "description": "",
           "iconUrl": "https://www.moduzy.com/favicon.ico",
           "searchConfig": {
-            "searchUrl": "https://www.moduzy.com/search/-------------/?wd={keyword}&submit=",
+            "searchUrl": "https://www.moduzy.net/search/-------------/?wd={keyword}&submit=",
             "searchUseOnlyFirstWord": true,
             "searchRemoveSpecial": true,
             "searchUseSubjectNamesCount": 1,
